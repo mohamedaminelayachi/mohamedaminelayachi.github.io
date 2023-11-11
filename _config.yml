@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Amine Layachi"
-  avatar           : "profile.png"
+  avatar           : "MOHAMED_AMINE_LAYACHI.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Kenitra, Morocco"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "mohamedamine.layachi@uit.ac.ma"
-  researchgate     :  "Mohamed-Amine-Layachi"
+  researchgate     : "https://www.researchgate.net/profile/Mohamed-Amine-Layachi"
   uri              :
   bitbucket        :
   codepen          :
