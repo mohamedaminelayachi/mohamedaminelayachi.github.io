@@ -73,6 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  height: 36px; 
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -88,7 +89,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 0px solid $border-color;
     }
   }
 }
