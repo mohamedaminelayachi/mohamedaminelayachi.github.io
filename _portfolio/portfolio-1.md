@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tripper"
+excerpt: "Tripper is a traffic management system that my team in the master's program designed and prototyped last year, and we're working this year to implement it as a large-scale production framework<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
