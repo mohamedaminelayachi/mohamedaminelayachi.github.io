@@ -13,7 +13,7 @@ I am pleased that you are interested in learning more about me. My name is Moham
 
 By the end of this page, you will have gained more insights into who I am. However, if you wish to engage in a conversation, please feel free to reach out to me. I welcome the opportunity to connect.
 
-(...)
+...
 
 **A life outside the academic circle**
 ======
