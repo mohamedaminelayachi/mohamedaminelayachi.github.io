@@ -13,6 +13,8 @@ I am pleased that you are interested in learning more about me. My name is Moham
 
 By the end of this page, you will have gained more insights into who I am. However, if you wish to engage in a conversation, please feel free to reach out to me. I welcome the opportunity to connect.
 
+(...)
+
 **A life outside the academic circle**
 ======
 It's challenging for me to distinctively isolate my academic life as a separate entity from my overall life because inspiration often emerges unexpectedly. Nonetheless, I am an avid guitarist and have been playing since the age of 19. I delve into various genres, with a particular emphasis on Rock and its derivatives. Additionally, I am a music producer, having delved into this realm since the age of 15. My production primarily centers around EDM and Rock. The inception of my journey into music production was spurred by the necessity for a soundtrack for a game I was developing at the age of 13/14, titled Ponga. Regrettably, the game never came to fruition, but it led me to acquire a completely different skill set.
