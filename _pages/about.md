@@ -30,7 +30,7 @@ List of Favorite Things:
 * Painting: The Fall of the Damned - Peter Paul Rubens
 * Sculpture: Pietà - Michelangelo
 * Musical Piece: Requiem in D Minor: Lacrimosa - Wolfgang Amadeus Mozart
-* Song: Dirt - Alice in Chains
+* Song: Pyramid Song by Radiohead
 * Band: Bring Me The Horizon
 * Movie: The Mummy (1999)
 
